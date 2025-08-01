@@ -14,6 +14,8 @@ Below is a list of what's included, with info, comments, and other sources of do
   
   Official download: https://ballzofiya.be/-/hfslip/
 
+  *Thanks to Tomcat76 for hosting these sites!*
+
 \HFTOOLS:
 
 - **7za.exe**
