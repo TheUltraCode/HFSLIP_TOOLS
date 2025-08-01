@@ -1,0 +1,5 @@
+Download the latest "7zXXXX-extra.7z" archive from the official Sourceforge repository.
+
+https://sourceforge.net/projects/sevenzip/files/7-Zip/
+
+Extract "7za.exe" from its contents and place it in the HFSLIP `\HFTOOLS` directory.
