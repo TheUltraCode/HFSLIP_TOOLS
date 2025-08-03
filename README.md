@@ -36,9 +36,11 @@ Below is a list of what's included, with info, comments, and other sources of do
   
   Official archived download: https://web.archive.org/web/20120428225057/http://www.nu2.nu/bbie/
 
-- **boot.bin**
-
-  Presumably the boot partition of an NT5 setup disc (whether that is 2000 or XP, I am unsure) provided by evgnb with HFSLIP 1.7.11u. I have used this image for both 2000 and XP HFSLIP attempts successfully, but you can run `bbie.exe` with your own setup disc/ISO and create a fresh `boot.bin` image if desired.
+- **[2k/xp]boot.bin**
+  
+  (c) Microsoft
+  
+  The boot partitions of a Windows 2000 SP4 and Windows XP SP3 setup disc, respectively. Before running hfslip, just make a copy of the desired image file in the HFTOOLS directory and rename it to `boot.bin`. You can run `bbie.exe` with your own setup disc/ISO and create a fresh `boot.bin` image if desired.
 
 - **CDIMAGE.exe** (v2.52)
   
