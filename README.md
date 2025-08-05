@@ -1,4 +1,4 @@
-# hfslip-tools
+# HFSLIP TOOLS
 
 Collection of utilities used by HFSLIP. Most of these were included with and taken from HFSLIP 1.7.11u. Simply download and extract into the respective HFSLIP directories for HFSLIP to use.
 
